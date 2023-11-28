@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/content-finder-app/static/js/main.e8624d21.js",
+    "static/js/787.a461ed4c.chunk.js": "/content-finder-app/static/js/787.a461ed4c.chunk.js",
+    "service-worker.js": "/content-finder-app/service-worker.js",
+    "index.html": "/content-finder-app/index.html",
+    "main.e8624d21.js.map": "/content-finder-app/static/js/main.e8624d21.js.map",
+    "787.a461ed4c.chunk.js.map": "/content-finder-app/static/js/787.a461ed4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e8624d21.js"
+  ]
+}
